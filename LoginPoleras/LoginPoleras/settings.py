@@ -12,6 +12,7 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 
 from pathlib import Path
 
+# Redirección a login al entrar a la página.
 LOGIN_URL='login/'
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
